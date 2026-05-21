@@ -87,8 +87,8 @@
 ---
 
 ## Internships
-- **Summer 2024:** (Coming)
-- **Summer 2025:** (Coming)
+- **Summer 2026:** (Coming)
+- **Summer 2027:** (Coming)
 
 ---
 
@@ -123,6 +123,6 @@
 
 ---
 
-**Last Updated:** January 2025
+**Last Updated:** may 2026
 
 *"Every day I code, every day I get closer to 15 LPA" 💪*
