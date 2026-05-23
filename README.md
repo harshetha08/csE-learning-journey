@@ -8,7 +8,7 @@
 
 ## About Me
 - **Name:** Harshatha
-- **College:** [Your College Name]
+- **College:** [KNOWLEDGE INSTITUTE OF TECHNOLOGY]
 - **Branch:** CSE (Computer Science Engineering)
 - **Goal:** 15 LPA in placement
 - **Learning:** Full Stack Development + DSA
@@ -65,10 +65,10 @@
 ---
 
 ## LeetCode Progress
-- **Easy Problems Solved:** 0/50
-- **Medium Problems Solved:** 0/30
+- **Easy Problems Solved:** 2/50
+- **Medium Problems Solved:** 1/30
 - **Hard Problems Solved:** 0/10
-- **Current Streak:** 0 days
+- **Current Streak:** 2 days
 
 [Track on LeetCode](https://leetcode.com/harshethaa08)
 
