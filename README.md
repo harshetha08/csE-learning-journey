@@ -14,7 +14,13 @@
 - **Learning:** Full Stack Development + DSA
 
 ---
+## 🔗 Profiles & Links
 
+- **GitHub:** [harshethaa08](https://github.com/harshethaa08)
+- **LeetCode:** [harshethaa08](https://leetcode.com/harshethaa08/)
+- **LinkedIn:** [Harshetha M S S](https://www.linkedin.com/in/harshetha-m-s-s-789bb9383)
+
+---
 ## My Learning Path
 
 ### Phase 1: Fundamentals (Current - Months 1-3)
