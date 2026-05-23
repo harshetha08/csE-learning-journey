@@ -115,8 +115,8 @@
 
 ## Contact
 - **GitHub:** [harshethaa08](https://github.com/harshethaa08)
-- **LinkedIn:** [Your LinkedIn]
-- **Email:** [Your Email]
+- **LinkedIn:** [https://www.linkedin.com/in/harshetha-m-s-s-789bb9383]
+- **Email:** [chaseharshu@gmail.com]
 
 ---
 
